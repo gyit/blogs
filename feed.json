@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "gyits-blogs",
+    "description": "",
+    "home_page_url": "http://gyit.org/blogs",
+    "feed_url": "http://gyit.org/blogs/feed.json",
+    "user_comment": "",
+    "icon": "http://gyit.org/blogs/media/website/logo_alt.png",
+    "author": {
+        "name": "Tú Trần"
+    },
+    "items": [
+    ]
+}
